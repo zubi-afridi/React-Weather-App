@@ -22,3 +22,15 @@ A React-based weather application that allows users to check the weather for dif
 1. Clone the repository:
    ```bash
    git clone https://github.com/zubi-afridi/React-Weather-App.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Weather-App
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
