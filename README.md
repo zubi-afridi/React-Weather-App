@@ -1,8 +1,24 @@
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+A React-based weather application that allows users to check the weather for different cities. Built using Vite, React, and Tailwind CSS, with data sourced from the Open Weather API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Check weather for multiple cities
+- Stylish and responsive design using Tailwind CSS
+- Fast setup with Vite
+
+## Technologies Used
+
+- **Vite**: A fast build tool for modern web projects
+- **React**: A JavaScript library for building user interfaces
+- **Tailwind CSS**: A utility-first CSS framework for styling
+- **Open Weather API**: A service for fetching weather data
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
